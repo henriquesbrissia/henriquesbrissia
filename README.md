@@ -31,18 +31,20 @@ A passionate Full-stack developer from Curitiba, Brazil
 </div>
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=henriquesbrissia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=henriquesbrissia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesbrissia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=henriquesbrissia&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=henriquesbrissia&theme=dark&hide_border=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesbrissia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=henriquesbrissia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=henriquesbrissia&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=henriquesbrissia&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=henriquesbrissia&icon=0&color=0)](https://visitcount.itsvg.in)
