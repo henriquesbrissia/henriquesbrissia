@@ -2,7 +2,7 @@
 A passionate Full-stack developer from Curitiba, Brazil
 
 ## About Me
-⚖️ Brazilian lawyer who decided to pivot into tech career<br>🌱 Lifelong learner<br>🤓 Self-taught developer since childhood<br>🤝 True connections give meaning to life
+⚖️ Brazilian lawyer who decided to pivot into a tech career<br>🌱 Lifelong learner<br>🤓 Self-taught developer since childhood<br>🤝 Genuine connections give meaning to life
 
 ## 💻 Tech Stack
 <div align="left">
